@@ -4,5 +4,5 @@
 # [abc] - matches a, b, or c
 # ** - matches nested directories - a/**/z matches
 
-data/
+data/tes*
 gummy bear
